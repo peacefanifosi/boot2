@@ -1,0 +1,52 @@
+.d-block{
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+}
+/* .uni1{
+    background-size:auto;
+    background-position: center;
+} */
+.carousel-caption{
+    background-color: rgb(63, 63, 142);
+    width: auto;
+}
+.carousel-caption h3{
+    font-size: 55px;
+}
+.carousel-caption p{
+    font-size: 18px;
+}
+.nano img{
+    width: 23%;
+}
+.odl img{
+    width: 40%;
+    height: 90px;
+}
+.induct img{
+    width: 16%;
+}
+.calender img{
+    width: 30%;
+}
+.news img{
+    width: 22%;
+    height: 50px;
+}
+.universitynews p{
+    padding-left: 3%;
+}
+.text-center i{
+    font-size: 25px;
+    padding: 3%;
+}
+#academic h2{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(54, 54, 112);
+}
+.row1 li{
+    color: rgb(190, 184, 184);
+}
